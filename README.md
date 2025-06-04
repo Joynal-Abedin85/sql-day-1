@@ -26,7 +26,7 @@ OFFSET নির্ধারণ করে কতটি রেকর্ড স্
 SELECT * FROM products LIMIT 10 OFFSET 20;
 
 
-* 6. How can you modify data using UPDATE statements?
+# 6. How can you modify data using UPDATE statements?
 UPDATE ব্যবহার করে টেবিলের ডেটা আপডেট করা যায়।
 উদাহরণ:
 
